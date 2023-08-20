@@ -5,7 +5,7 @@ I hope you benefit and enjoy it.🙏 <br> <br>
 
 # Steps 👣💫
 ## **1.** Sign in to your AWS accounte.
-Use this link                    👉 [AWS](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgsFromTB_eu-north-1_4b312e400b236363&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=D-5cOHc39_nTlE2-pGonns9_T7n5y5NzWEpzZhds6qk&code_challenge_method=SHA-256) <br>
+Use this link                    👉 [AWS](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3FhashArgs%3D%2523%26isauthcode%3Dtrue%26nc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgsFromTB_eu-north-1_4b312e400b236363&client_id=arn%3Aaws%3Asignin%3A%3A%3Aconsole%2Fcanvas&forceMobileApp=0&code_challenge=D-5cOHc39_nTlE2-pGonns9_T7n5y5NzWEpzZhds6qk&code_challenge_method=SHA-256) <br><br>
 
 ## 2. Creat Auto Scaling Group 👥
 
