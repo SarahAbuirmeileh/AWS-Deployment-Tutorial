@@ -82,7 +82,8 @@ sudo reboot
 ## 7. Choose your tamplate and the latest version for it 🌟
 ![Screenshot from 2023-08-20 11-27-59](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/assets/127017088/64e0c78f-4f77-4607-83aa-ef4acf449939) <br><br>
 
-## 8. Choose the Availability Zones, it's recommended to choose as possible as you can 🌍
+## 8. Choose the Availability Zones🌍
+it's recommended to choose as possible as you can 
 ![Screenshot from 2023-08-20 11-28-16](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/assets/127017088/913214a1-4278-4e64-a41e-2c8e51038be9)<br><br>
 
 ## Next 🔥
