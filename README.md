@@ -5,12 +5,8 @@
 
 
 
-## What will you learn: 📝
-### 1. Create Auto Scaling Group.
-### 2. Create Load Balancer.
-### 3. Connect them together.
-### 4. Deploy your app.<br><br>
+In this tutorial, we’ll take a deep dive into the world of AWS and learn how to deploy applications using Auto Scaling Groups and Load Balancers. Whether you’re an AWS beginner or looking to enhance your skills, you’ve come to the right place. By the end of this guide, you’ll have a solid understanding of how to efficiently deploy your app on AWS infrastructure.<br><br>
 
 ## Content: 📑🚀
-### 1. [AWS](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/Steps.md)
-### 2. [App](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/App.md)
+### 1. [AWS Steps](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/Steps.md)
+### 2. [Applicaton tips](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/App.md)
