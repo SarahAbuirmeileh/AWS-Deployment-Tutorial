@@ -9,4 +9,4 @@ In this tutorial, we’ll take a deep dive into the world of AWS and learn how t
 
 ## Content: 📑🚀
 ### 1. [AWS Steps](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/Steps.md)
-### 2. [Applicaton tips](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/App.md)
+### 2. [Applicaton tips](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/Application%20tips.md)
