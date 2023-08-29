@@ -8,5 +8,5 @@
 In this tutorial, we’ll take a deep dive into the world of AWS and learn how to deploy applications using Auto Scaling Groups and Load Balancers. Whether you’re an AWS beginner or looking to enhance your skills, you’ve come to the right place. By the end of this guide, you’ll have a solid understanding of how to efficiently deploy your app on AWS infrastructure.<br><br>
 
 ## Content: 📑🚀
-### 1. [AWS Steps](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/Steps.md)
+### 1. [AWS Steps](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/AWS%20Steps.md)
 ### 2. [Applicaton tips](https://github.com/SarahAbuirmeileh/AWS-Deployment-Tutorial/blob/main/Application%20tips.md)
